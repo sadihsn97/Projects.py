@@ -1,3 +1,3 @@
 # Projects.py
 
-Independent projects based on python programming languages
+Independent projects based on python programming language
